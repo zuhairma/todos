@@ -7,7 +7,7 @@
         <span class="incomplete-box"></span> = Incomplete
       </span>
       <span>
-        <span class="complete-box"></span> = Complete
+        <span class="complete-box"></span> = Complete Zuhair
       </span>
     </div>
       <div class="todos">
