@@ -49,7 +49,7 @@ export default {
   grid-gap: 1rem;
 }
 .todo {
-  border: 1px solid #ccc;
+  border: 10px solid #ccc;
   background: #41b883;
   padding: 1rem;
   border-radius: 5px;
